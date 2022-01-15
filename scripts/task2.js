@@ -15,7 +15,7 @@ const currentYear = 2022;
 document.querySelector('#year').textContent = currentYear;
 
 // Step 5: declare and instantiate a variable to hold the name of your picture
-const myPicture = "images/Daniel-Jones.jpg";
+const myPicture = 'images/Daniel-Jones.jpg';
 
 // Step 6: copy your image into the "images" folder
 
