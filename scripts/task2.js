@@ -3,7 +3,7 @@
 /* VARIABLES */
 
 // Step 1: declare and instantiate a variable to hold your name
-const myName = "Daniel Jones";
+const myName = 'Daniel Jones';
 
 // Step 2: place the value of the name variable into the HTML file (hint: document.querySelector())
 document.querySelector('#name').textContent = myName;
@@ -33,7 +33,7 @@ const favoriteFoods = ['Enchiladas', 'Sushi', 'Spaghetti'];
 document.querySelector('#food').textContent = favoriteFoods;
 
 // Step 3: declare and instantiate a variable to hold another favorite food
-const moreFavoriteFoods = ['Chocolate Chip Mint Ice Cream'];
+const moreFavoriteFoods = 'Chocolate Chip Mint Ice Cream';
 
 // Step 4: add the variable holding another favorite food to the favorite food array
 favoriteFoods.push(moreFavoriteFoods);
