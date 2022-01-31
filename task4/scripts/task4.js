@@ -16,7 +16,7 @@ let myInfo = {
 
 // Step 5: Add another property named hobbies with a value of an array of your hobbies as strings
     hobbies: ["Reading", "Video Games", "Table-top Games"],
-}
+};
 
 // Step 6: Add another property named placesLived with a value of an empty array
 myInfo.placesLived = [
@@ -31,7 +31,7 @@ myInfo.placesLived = [
     {place: "Brewer, ME", length: "3 years"},
     {place: "Winterport, ME", length: "1 year"},
     {place: "Spanish Fork, UT", length: "7 years"}
-]    
+];    
 
 
 /* OUTPUT */
